@@ -1,0 +1,11 @@
+2 features are [0,1]. iteration is 26. test set accuracy is 0.755556
+2 features are [0,2]. iteration is 34. test set accuracy is 0.977778
+2 features are [0,3]. iteration is 20. test set accuracy is 0.955556
+2 features are [1,2]. iteration is 32. test set accuracy is 0.977778
+2 features are [1,3]. iteration is 24. test set accuracy is 1.000000
+2 features are [2,3]. iteration is 32. test set accuracy is 0.977778
+3 features are [0,1,2]. iteration is 37. test set accuracy is 0.977778
+3 features are [0,2,3]. iteration is 24. test set accuracy is 0.955556
+3 features are [0,3,3]. iteration is 31. test set accuracy is 0.977778
+3 features are [1,2,3]. iteration is 32. test set accuracy is 0.977778
+4 features are [0,1,2,3]. iteration is 31. test set accuracy is 0.977778
